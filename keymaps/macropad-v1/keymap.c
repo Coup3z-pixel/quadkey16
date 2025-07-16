@@ -42,7 +42,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     * ├────┼──────┼───────┼──────┤
     * │F13 │ F14 │  F15  │ F16  │
     * ├────┼──────┼───────┼──────┤
-    * │▶/⏸ │⏭️   │ ⏮️    │Mute │
+    * │▶/⏸ │⏭   │ ⏮    │Mute │
     * ├────┼──────┼───────┼──────┤
     * │Vol+│ Vol-│ Sleep │Boot │
     * └────┴──────┴───────┴──────┘
@@ -52,6 +52,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         MY_ALL, MY_COPY, MY_PASTE, MY_CUT, 
         KC_F13,   KC_F14,   KC_F15,   KC_F16,
         KC_MPLY,   KC_MNXT,   KC_MPRV,   KC_MUTE,
-        KC_KB_VOLUME_UP,   KC_KB_VOLUME_DOWN, KC_SLEP, QK_BOOT
+        KC_VOLU,   KC_VOLD, KC_SLEP, QK_BOOT
     )
 };
