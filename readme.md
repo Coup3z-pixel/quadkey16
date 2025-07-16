@@ -2,11 +2,11 @@
 
 ![quadkey](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+A simple, 16-key keypad/macropad designed by Bond Tran, Sean Mclennan, and Leroy Hunter.
 
-* Keyboard Maintainer: [Sean McLennan](https://github.com/coup3z-pixel)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Keyboard Maintainer: [Sean McLennan](https://github.com/coup3z-pixel), [Bond Tran](https://github.com/BlueOrcaz)
+* Hardware Supported: Waveshare RP2040-Zero, Cherry MX Switches and Keycaps.
+* Hardware Availability: [RP2040-Zero](https://www.amazon.com.au/dp/B09KZPCNPL?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 Make example for this keyboard (after setting up your build environment):
 
