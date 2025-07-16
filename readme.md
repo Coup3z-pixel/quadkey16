@@ -4,7 +4,7 @@
 
 A simple, 16-key keypad/macropad designed by Bond Tran, Sean Mclennan, and Leroy Hunter.
 
-* Keyboard Maintainers: [Sean McLennan](https://github.com/coup3z-pixel), [Bond Tran](https://github.com/BlueOrcaz)
+* Keyboard Maintainers: [Sean McLennan](https://github.com/coup3z-pixel), [Bond Tran](https://github.com/BlueOrcaz), Leroy Hunter
 * Hardware Supported: Waveshare RP2040-Zero, Cherry MX Switches and Keycaps.
 * Additional Documentation: [QMK Firmware Docs](https://docs.qmk.fm/)
 
