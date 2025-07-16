@@ -6,8 +6,17 @@ A simple, 16-key keypad/macropad designed by Bond Tran, Sean Mclennan, and Leroy
 
 * Keyboard Maintainers: [Sean McLennan](https://github.com/coup3z-pixel), [Bond Tran](https://github.com/BlueOrcaz)
 * Hardware Supported: Waveshare RP2040-Zero, Cherry MX Switches and Keycaps.
-* Hardware Availability: [RP2040-Zero](https://www.amazon.com.au/dp/B09KZPCNPL?ref=ppx_yo2ov_dt_b_fed_asin_title), [3D Printer Parts](https://drive.google.com/drive/folders/1f1TSEj0fxLeqnaay50ArL8llVYELazPb?usp=sharing)
 * Additional Documentation: [QMK Firmware Docs](https://docs.qmk.fm/)
+
+## Parts Used
+* [Akko Lubed Gateron Yellows](https://www.pccasegear.com/products/61320/gateron-yellow-switches-45-pack-lubricated-akko?srsltid=AfmBOoo7JGfnyN4vSXxlYt9I7lZkLv2MgxLIHMoxuTSh70V5ODySLDei)
+* ABS Doubleshot Keycaps (From Glorious GMMK Compact)
+* [Custom 3D Printed Case and Housing](https://drive.google.com/drive/folders/1f1TSEj0fxLeqnaay50ArL8llVYELazPb?usp=sharing)
+* [Waveshare RP2040-Zero](https://www.amazon.com.au/dp/B09KZPCNPL?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* Blue Solid Core Wire
+* [Tinned Copper Wire - 22AWG](https://www.jaycar.com.au/tinned-copper-wire-25-gram-pack/p/WW4032)
+* [1N4148 Diodes](https://www.jaycar.com.au/1n914-1n4148-economical-diode-pack-pack-of-100/p/ZR1105?srsltid=AfmBOoowLDS8nKaRKPLjCG0x-9IIjasgqhMZvPRyiNdHI6v0benIcRJp)
+
 Make example for this keyboard (after setting up your build environment):
 
     make quadkey16:default
