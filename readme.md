@@ -1,6 +1,6 @@
 # quadkey16 - A simple, programmable 4x4 macropad/keypad 
 
-![quadkey](https://imgur.com/CA4XBqj)
+![quadkey16](https://i.imgur.com/CA4XBqj.png)
 
 A simple, 16-key keypad/macropad designed by Bond Tran, Sean Mclennan, and Leroy Hunter.
 
