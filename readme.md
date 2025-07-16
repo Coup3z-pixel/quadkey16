@@ -1,4 +1,4 @@
-# quadkey16 - A simple, programmable 4x4 macropad/keypad 
+# quadkey16 - A simple, programmable handwired 4x4 macropad/keypad 
 
 ![quadkey16](https://i.imgur.com/CA4XBqj.png)
 
